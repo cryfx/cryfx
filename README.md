@@ -11,3 +11,4 @@ Games I play:
 - and sometimes minecraft
 
 I'm also a roblox exploiter
+Try my script: [chatgptware](https://github.com/cryfx/chatgptware)
